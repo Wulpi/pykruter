@@ -1,8 +1,4 @@
 Nr: 1
 Pytanie: Jak zrobić sortowanie danych po elemencie listy w liście, np. wiek uczestników?
-<<<<<<< HEAD
 Odpowiedź: Sort z funkcją key..
-=======
-Odpowiedź: Sort z funkcją key.
->>>>>>> 645b969a5829084cf220edb3926c21588f933195
 Rezultat: 
